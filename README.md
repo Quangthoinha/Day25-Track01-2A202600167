@@ -2,8 +2,8 @@
 
 ## Thông tin học viên
 
-- Mã học viên: A20-XXXXX
-- Họ tên: [...]
+- Mã học viên: 2A202600167
+- Họ tên: Nguyễn Hữu Quang
 - Track: AI Product Strategy
 
 ## Kết quả cuối
