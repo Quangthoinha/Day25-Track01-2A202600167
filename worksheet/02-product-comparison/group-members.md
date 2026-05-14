@@ -17,27 +17,27 @@ File này khai báo 2 thành viên trong nhóm + phân công thực hiện.
 
 | # | Mã học viên | Họ tên đầy đủ | Phân công chính |
 |---|---|---|---|
-| 1 | A20-XXXXX | [...] | [...] |
-| 2 | A20-XXXXX | [...] | [...] |
+| 1 | A20-XXXXX | Ngọc | Sản phẩm A — NotebookLM: nghiên cứu, test, chụp screenshot, điền phần Sản phẩm A trong outline |
+| 2 | A20-XXXXX | Quang | Sản phẩm B — Consensus: nghiên cứu, test, chụp screenshot, điền phần Sản phẩm B trong outline |
 
 ---
 
 ## Nhiệm vụ thử nghiệm chung
 
-[Mô tả 1-2 câu nhiệm vụ chung mà cả 2 thành viên cùng test trên 2 sản phẩm. Ví dụ: "Viết bản tóm tắt 200 từ về tác động của AI lên ngành ed-tech, có dẫn nguồn."]
+**Ngành chọn**: D — Nghiên cứu
 
-**Ngành chọn**: [A — Tìm kiếm / B — Lập trình / C — Viết lách / D — Nghiên cứu]
+**Sản phẩm A**: NotebookLM — https://notebooklm.google.com
 
-**Sản phẩm A**: [tên + URL]
+**Sản phẩm B**: Consensus — https://consensus.app
 
-**Sản phẩm B**: [tên + URL]
+**Nhiệm vụ chung**: Tổng hợp tài liệu: tải 3-5 bài báo/PDF về chủ đề "AI agent" hoặc "Vietnam fintech regulation 2024", yêu cầu AI tổng hợp 1 bài viết 500 từ có dẫn nguồn.
 
 ---
 
 ## Phân chia screenshot
 
-- Sản phẩm A → [Mã học viên nào phụ trách chụp]
-- Sản phẩm B → [Mã học viên nào phụ trách chụp]
+- Sản phẩm A (NotebookLM) → [Mã học viên nào phụ trách chụp]
+- Sản phẩm B (Consensus) → [Mã học viên nào phụ trách chụp]
 
 ---
 
